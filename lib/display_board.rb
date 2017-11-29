@@ -2,7 +2,7 @@
 def display_board
   cell = "   "
   row = cell + "|" + cell + "|" + cell
-  interRow = "-----------"
+  interRow = "\n-----------\n"
   print row
   print interRow
   print row
