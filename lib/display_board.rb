@@ -7,5 +7,5 @@ def display_board
   print interRow
   print row
   print interRow
-  print row \n
+  print row + "\n"
 end
